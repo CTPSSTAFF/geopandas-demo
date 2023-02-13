@@ -1,11 +1,11 @@
 # geopandas-demo
 
 ## Overview
-The contents of this repository demonstrate the use of the Python geopandas package to perform a simple, but common, geo-processing task: 
+The contents of this repository demonstrate the use of the Python [__geopandas__](https://geopandas.org) package to perform a simple, but common, geo-processing task: 
 _calculate the total area, in square miles, of the one-quarter mile service area of all MBTA Red Line heavy rail rapid transit stations_.
 
 ## Dependencies
-This demo requires version 0.10.0 \(or higher\) of __geopandas__, because it uses the relatively new _explore_ GeoDataFram method to render maps.
+This demo requires version 0.10.0 \(or higher\) of geopandas, because it uses the relatively new _explore_ GeoDataFrame method to render maps.
 This, in turn, requires the use of Python version 3.10 \(or higher\).
 
 ## Running the Demo
