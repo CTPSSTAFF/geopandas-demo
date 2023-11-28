@@ -19,5 +19,5 @@ Then:
 * open the notebook __geopahdas_demo.ipynb__, and
 * execute its contents
 
--- B. Krepp
+-- Ben Krepp (bkrepp@ctps.org)
 13 February 2023
