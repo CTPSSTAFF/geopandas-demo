@@ -19,5 +19,7 @@ Then:
 * open the notebook __geopahdas_demo.ipynb__, and
 * execute its contents
 
--- Ben Krepp (bkrepp@ctps.org)
-13 February 2023
+## Colophon
+Author: Ben Krepp (bkrepp@ctps.org)  
+Last revision: 13 February 2023  
+Location: Cyberspace
